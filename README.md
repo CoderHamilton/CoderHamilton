@@ -1,4 +1,14 @@
 ## Olá! Eu sou Hamilton Santos
+
+Estudante de Sistemas de Informação, aventureiro em UI-UX.
+<br/><br/>
+**Falando sobre Coisas Pessoais:**
+<p>
+  👨🏽‍💻 Atualmente trabalhando como desenvolvedor jr..<br/>
+  💼 Morando em <a href="https://www.google.com/maps/place/Paulista,+PE/">Paulista</a>, em Brasil.<br/>
+  💻 Desenvolvedor Web nas horas vagas em <a href="https://pt-br.reactjs.org/">React</a> × <bold><a href="https://spring.io/projects/spring-boot">Spring Boot</a></bold>.<br/>
+</p>
+<br/><br/>
  <div>
   <a href="https://github.com/CoderHamilton">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderhamilton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,3 +35,5 @@
   ![Snake animation](https://github.com/CoderHamilton/CoderHamilton/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=CoderHamilton.CoderHamilton)
